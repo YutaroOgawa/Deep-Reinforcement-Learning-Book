@@ -4,7 +4,7 @@
 <img src="./movies/book.jpg" width="300px">
 
 <img src="./movies/7_breakout.gif" width="600px">
-図　ブロック崩しを攻略
+図　ブロック崩しを攻略（A2Cを使用し、GPU1枚で3時間の学習後）
 
 <img src="./movies/2_2_maze_random.gif" width="300px">
 図　迷路をランダムに移動
