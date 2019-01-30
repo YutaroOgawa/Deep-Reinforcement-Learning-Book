@@ -3,7 +3,7 @@
 
 
 最下部に正誤表を記載しております。
-
+（2019年1月31日最新）
 
 
 
@@ -51,8 +51,7 @@ stop_epsilon = 10**-4
 ```
 
 #### 4.3「PyTorchで手書き数字画像の分類課題MNISTを実装」
-p.109、「mnist = fetch_mldata('MNIST original')　が実行できない問題」への対処法
-
+p.109、「mnist = fetch_mldata('MNIST original')　が実行できない問題」への対処法。
 該当ファイル：4_3_PyTorch_MNIST.ipynbを修正しました。
 
 
